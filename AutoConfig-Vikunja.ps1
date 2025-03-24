@@ -1,5 +1,3 @@
-# Nome dello script: AutoConfig-Vikunja.ps1
-# Descrizione: Automatizza l'installazione e la configurazione di Vikunja, il collegamento al NAS e il versionamento con Git.
 
 # --- Configurazione iniziale ---
 $vikunjaFolder = "C:\vikunja"
